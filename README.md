@@ -124,15 +124,18 @@ To stop and remove Docker containers:
 ## 🤝 Contributing
 
 Contributions, suggestions, and corrections are welcome!  
-Please open an issue or submit a pull request.
+Feel free to fork and submit a pull request!
 
 ## 📄 License
 
-This repository is licensed under the MIT License.
+MIT  Free for personal and educational use.
 
-## 🙋‍♂️ Maintainer
+## 🙋‍♂️ Maintained by Saifeez Ibrahim
+If you found this helpful, star ⭐ the repo or share it to help more people learn DevOps!
 
-Created and maintained by [@saifeezibrahim](https://github.com/saifeezibrahim).
+Need help or want to connect? [Reach out on GitHub!](https://github.com/saifeezibrahim)
 
 Happy learning!
+
+
 
